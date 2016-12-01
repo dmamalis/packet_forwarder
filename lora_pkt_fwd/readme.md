@@ -1,3 +1,10 @@
+This is a fork of LoRa-net packet forwarder modified to forward packets to more than one servers. Modifications are based on the TTN official repositoyry.
+
+
+
+
+===========================
+
 	 / _____)             _              | |    
 	( (____  _____ ____ _| |_ _____  ____| |__  
 	 \____ \| ___ |    (_   _) ___ |/ ___)  _ \ 
